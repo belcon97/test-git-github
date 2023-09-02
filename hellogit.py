@@ -1,6 +1,1 @@
-print('hello git with changes')
-print('hello git with changes')
-print('hello git with changes')
-print('hello git with changes')
-print('hello git with changes')
-print('hello git with changes')
+print('hello git')
